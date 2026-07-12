@@ -1,6 +1,5 @@
-{
-  "version": "1.0.0-beta.4",
-  "url": "https://github.com/zphex1453-lang/atlantic-bot-releases/releases/download/v1.0.0-beta.4/AtlanticBotHost-1.0.0-beta.4.jar",
-  "sha256": "60fd59d55b8cba1d48dcc5e20ad3a4179f0a83e9ababa454a31e758724265595",
-  "signature": "s1eQyin+3EpiHCrTVnQzO8OcUbepC7OAvRbzvtcxs9AC4xadKKqeJvf0Ye5s4rouM/AjE+imFYgznUxoS76zCQ=="
+{.    "version": "1.0.0-beta.5",
+    "url": "https://github.com/zphex1453-lang/atlantic-bot-releases/releases/download/v1.0.0-beta.5/AtlanticBotHost-1.0.0-beta.5.jar",
+    "sha256": "8ddbbc1e890cb2003e665355a3efa5c56f4e664be6a7227048d2ad507fb8e72c",
+    "signature": "kM4XXO7tyosz4PaAlFGpSpQVI7iBGZJMj33dFjrO6W4vS2QZYHqvbHhMFR4lgjLL0kPg0JD97GetG4vOwlkyDg=="
 }
